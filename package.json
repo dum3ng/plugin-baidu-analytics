@@ -1,0 +1,10 @@
+{
+  "name": "docusaurus-plugin-baidu-analytics",
+  "version": "0.0.1",
+  "main": "lib/index.js",
+  "author": "dumeng <dumeng81@outlook.com>",
+  "publishConfig": {
+    "access": "public"
+  },
+  "license": "MIT"
+}
